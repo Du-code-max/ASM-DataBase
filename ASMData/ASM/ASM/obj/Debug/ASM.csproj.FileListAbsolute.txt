@@ -1,0 +1,76 @@
+D:\Database.Class\ASM\ASM\bin\Debug\ASM.exe.config
+D:\Database.Class\ASM\ASM\bin\Debug\ASM.exe
+D:\Database.Class\ASM\ASM\bin\Debug\ASM.pdb
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormLogIn.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormManagement.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormOrder.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormOrderDsetails.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormProduct.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormRegister.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormStatistical.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.cache
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.exe
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.pdb
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormMenuShop.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormEmployees.resources
+D:\Database.Class\ASM\ASM\obj\Debug\ASM.FormCustomers.resources
+D:\project\Vcas\ASM\ASM\bin\Debug\ASM.exe.config
+D:\project\Vcas\ASM\ASM\bin\Debug\ASM.exe
+D:\project\Vcas\ASM\ASM\bin\Debug\ASM.pdb
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormCustomers.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormEmployees.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormLogIn.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormManagement.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormMenuShop.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormOrder.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormOrderDsetails.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormProduct.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormRegister.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.FormStatistical.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.cache
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.exe
+D:\project\Vcas\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormCustomers.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormEmployees.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormLogIn.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormManagement.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormMenuShop.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormOrder.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormOrderDsetails.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormProduct.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormRegister.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.FormStatistical.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.cache
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\dyly3\OneDrive\Máy tính\New folder\ASM\ASM\obj\Debug\ASM.pdb
+D:\ASMData\ASM\ASM\bin\Debug\ASM.exe.config
+D:\ASMData\ASM\ASM\bin\Debug\ASM.exe
+D:\ASMData\ASM\ASM\bin\Debug\ASM.pdb
+D:\ASMData\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormCustomers.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormEmployees.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormLogIn.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormManagement.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormMenuShop.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormOrder.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormOrderDsetails.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormProduct.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormRegister.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.FormStatistical.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+D:\ASMData\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.cache
+D:\ASMData\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+D:\ASMData\ASM\ASM\obj\Debug\ASM.exe
+D:\ASMData\ASM\ASM\obj\Debug\ASM.pdb
